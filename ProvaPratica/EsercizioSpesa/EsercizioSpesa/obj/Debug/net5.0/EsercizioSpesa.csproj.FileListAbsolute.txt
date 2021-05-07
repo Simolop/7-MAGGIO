@@ -1,0 +1,16 @@
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\EsercizioSpesa.exe
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\EsercizioSpesa.deps.json
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\EsercizioSpesa.runtimeconfig.json
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\EsercizioSpesa.runtimeconfig.dev.json
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\EsercizioSpesa.dll
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\ref\EsercizioSpesa.dll
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\bin\Debug\net5.0\EsercizioSpesa.pdb
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.csprojAssemblyReference.cache
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.AssemblyInfoInputs.cache
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.AssemblyInfo.cs
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.csproj.CoreCompileInputs.cache
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.dll
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\ref\EsercizioSpesa.dll
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.pdb
+C:\Users\simona.loperfido\Desktop\7 MAGGIO\ProvaPratica\EsercizioSpesa\EsercizioSpesa\obj\Debug\net5.0\EsercizioSpesa.genruntimeconfig.cache
